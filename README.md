@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to my profile :)
-#### Year 2 Data Science and Analytics at National University of Singapore (NUS)
+#### Year 3 Data Science and Analytics at National University of Singapore (NUS), with a Double Major in Computer Science
 Personal GitHub page, mostly for work and side projects
 
 Skills: Python/Java/SQL
